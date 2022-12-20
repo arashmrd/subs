@@ -12,3 +12,4 @@ vless://8ca2804c-a21b-4806-b107-c147822bc6a7@67.207.71.53:39292?type=tcp&securit
 vless://76746273-1426-4f15-daa4-ec526b8d1fd9@157.230.25.194:55938?type=ws&security=none&path=%2F#VL-INS-WS-DE5
 vless://90703fdf-708c-4eb4-95a9-f078ffa77bcb@143.198.42.236:15725?type=ws&security=none&path=%2F#VL-INS-WS-CA5
 vless://5e8b228e-ee24-4409-826e-1e4992aa9bb1@137.184.7.220:51496?type=ws&security=none&path=%2F#VL-INS-WS-US6
+vless://36e55625-7069-4937-f0ea-255bdf6772c5@146.190.16.192:26020?type=ws&security=none&path=%2F#VL-INS-WS-NL5
