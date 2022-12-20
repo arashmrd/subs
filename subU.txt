@@ -9,3 +9,4 @@ vmess://eyJhZGQiOiIxNDMuMTk4LjI0Mi4xMTMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIi
 vmess://eyJhZGQiOiI2Ny4yMDcuNzEuNTMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6IjBjOTI4OTc2LTY2MDctNDA2My1lMWU5LTUxZjVlNTc5ODNlZiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDE1MDAiLCJwcyI6IlZNLWlucy1VSzUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vless://e9c181ae-9923-470e-992f-0d490bb369c1@67.207.71.53:50433?type=ws&security=none&path=%2F#VL-INS-WS-UK5
 vless://8ca2804c-a21b-4806-b107-c147822bc6a7@67.207.71.53:39292?type=tcp&security=none#VL-INS-TCP-UK5
+vless://76746273-1426-4f15-daa4-ec526b8d1fd9@157.230.25.194:55938?type=ws&security=none&path=%2F#VL-INS-WS-DE5
